@@ -4,6 +4,7 @@ alert("Boas vindas ao nosso site!");
 console.log("Boas vindas ao nosso site!");
 
 // 2. Declare uma variável chamada nome e atribua a ela o valor "Lua".
+let nome = "Lua";
 
 // 3. Crie uma variável chamada idade e atribua a ela o valor 25.
 
