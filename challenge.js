@@ -10,6 +10,7 @@ let nome = "Lua";
 let idade = 25;
 
 // 4. Defina uma variável numeroDeVendas e atribua a ela o valor 50.
+let numeroDeVendas = 50;
 
 // 5. Defina uma variável saldoDisponivel e atribua a ela o valor 1000.
 
