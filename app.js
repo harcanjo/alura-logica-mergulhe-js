@@ -1,3 +1,4 @@
+/*
 alert('Boas vindas ao jogo do número secreto');
 
 // Adicione um console.log para verificar o valor de "chute" após a entrada do usuário
@@ -16,3 +17,4 @@ if (chute == numeroSecreto) {
     console.log('Valor do número secreto:', numeroSecreto);
     alert('O número secreto era ' + numeroSecreto);
 }
+*/
