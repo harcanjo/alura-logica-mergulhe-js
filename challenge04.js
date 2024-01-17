@@ -37,16 +37,21 @@
 // }
 
 // 8. Crie uma variável "numero" e peça um valor com prompt verifique se é positivo, negativo ou zero. Use if-else para imprimir a respectiva mensagem.
-let numero = prompt("Digite um número");
-if (numero > 0) {
-  console.log("Número positivo");
-} else if (numero < 0) {
-  console.log("Número negativo");
-} else {
-  console.log("Número zero");
-}
+// let numero = prompt("Digite um número");
+// if (numero > 0) {
+//   console.log("Número positivo");
+// } else if (numero < 0) {
+//   console.log("Número negativo");
+// } else {
+//   console.log("Número zero");
+// }
 
 // 9. Use um loop while para imprimir os números de 1 a 10 no console.
+let contador = 1;
+while (contador <= 10) {
+  console.log(contador);
+  contador++;
+}
 
 // 10. Crie uma variável "nota" e atribua um valor numérico a ela. Use if-else para determinar se a nota é maior ou igual a 7 e exiba "Aprovado" ou "Reprovado" no console.
 
