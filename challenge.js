@@ -16,8 +16,11 @@ let numeroDeVendas = 50;
 let saldoDisponivel = 1000;
 
 // 6. Exiba um alerta com o texto "Erro! Preencha todos os campos."
+alert("Erro! Preencha todos os campos.");
 
 // 7. Declare uma variável chamada mensagemDeErro e atribua a ela o valor "Erro! Preencha todos os campos." Agora exiba um alerta com o valor da variável mensagemDeErro.
+let mensagemDeErro = "Erro! Preencha todos os campos.";
+alert(mensagemDeErro);
 
 // 8. Use um prompt para perguntar o nome do usuário e armazená-lo na variável nome.
 
