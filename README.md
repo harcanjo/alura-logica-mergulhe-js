@@ -1,4 +1,4 @@
-# Alura -
+# Alura - Lógica de Programação com JavaScript
 
 Curso de Lógica de programação: mergulhe em programação com JavaScript
 
