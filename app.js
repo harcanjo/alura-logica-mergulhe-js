@@ -1,3 +1,4 @@
+/*
 alert('Boas vindas ao jogo do número secreto');
 let numeroSecreto = 2;
 console.log(numeroSecreto);
@@ -20,7 +21,7 @@ while (chute != numeroSecreto) {
         tentativas++;
     }
 }
-
+*/
 
 
 
