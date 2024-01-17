@@ -23,12 +23,18 @@
 // console.log(`A soma de ${valor1} e ${valor2} é igual a ${resultado}.`);
 
 // 6. Crie uma variável chamada "valor1" e outra chamada "valor2", atribuindo a elas valores numéricos de sua escolha. Em seguida, realize a subtração desses dois valores e armazene o resultado em uma terceira variável chamada "resultado". Utilize o console.log para mostrar a mensagem "A diferença entre [valor1] e [valor2] é igual a [resultado]." no console.
-let valor1 = 35;
-let valor2 = 25;
-let resultado = valor1 - valor2;
-console.log(`A diferença entre ${valor1} e ${valor2} é igual a ${resultado}.`);
+// let valor1 = 35;
+// let valor2 = 25;
+// let resultado = valor1 - valor2;
+// console.log(`A diferença entre ${valor1} e ${valor2} é igual a ${resultado}.`);
 
 // 7. Peça ao usuário para inserir sua idade com prompt. Com base na idade inserida, utilize um if para verificar se a pessoa é maior ou menor de idade, exibindo uma mensagem apropriada no console.
+let idade = prompt("Qual é a sua idade?");
+if (idade >= 18) {
+  console.log("Você é maior de idade");
+} else {
+  console.log("Você é menor de idade");
+}
 
 // 8. Crie uma variável "numero" e peça um valor com prompt verifique se é positivo, negativo ou zero. Use if-else para imprimir a respectiva mensagem.
 
