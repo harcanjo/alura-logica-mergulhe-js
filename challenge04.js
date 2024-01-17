@@ -62,8 +62,9 @@
 // }
 
 // 11. Use o Math.random para gerar qualquer número aleatório e exiba esse número no console.
-console.log(Math.random());
+// console.log(Math.random());
 
 // 12. Use o Math.random para gerar um número inteiro entre 1 e 10 e exiba esse número no console.
+console.log(parseInt(Math.random() * 10 + 1));
 
 // 13. Use o Math.random para gerar um número inteiro entre 1 e 1000 e exiba esse número no console.
