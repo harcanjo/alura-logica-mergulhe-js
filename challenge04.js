@@ -47,13 +47,19 @@
 // }
 
 // 9. Use um loop while para imprimir os números de 1 a 10 no console.
-let contador = 1;
-while (contador <= 10) {
-  console.log(contador);
-  contador++;
-}
+// let contador = 1;
+// while (contador <= 10) {
+//   console.log(contador);
+//   contador++;
+// }
 
 // 10. Crie uma variável "nota" e atribua um valor numérico a ela. Use if-else para determinar se a nota é maior ou igual a 7 e exiba "Aprovado" ou "Reprovado" no console.
+let nota = 10;
+if (nota >= 7) {
+  console.log("Aprovado");
+} else {
+  console.log("Reprovado");
+}
 
 // 11. Use o Math.random para gerar qualquer número aleatório e exiba esse número no console.
 
