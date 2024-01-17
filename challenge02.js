@@ -11,6 +11,7 @@ if (diaDaSemana == "Domingo" || diaDaSemana == "Sábado") {
 */
 
 // 2. Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.
+/*
 let numeroUsuario = prompt("Digite um número");
 if (numeroUsuario > 0) {
   alert("Número positivo");
@@ -19,8 +20,15 @@ if (numeroUsuario > 0) {
 } else {
   alert("Número negativo");
 }
+*/
 
 // 3. Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". Caso contrário, mostre "Tente novamente para ganhar.".
+let pontos = prompt("Qual a pontuação do jogo?");
+if (pontos >= 100) {
+  alert("Parabéns, você venceu!");
+} else {
+  alert("Tente novamente para ganhar.");
+}
 
 // 4. Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo.
 
