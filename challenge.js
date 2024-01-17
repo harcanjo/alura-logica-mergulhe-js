@@ -13,6 +13,7 @@ let idade = 25;
 let numeroDeVendas = 50;
 
 // 5. Defina uma variável saldoDisponivel e atribua a ela o valor 1000.
+let saldoDisponivel = 1000;
 
 // 6. Exiba um alerta com o texto "Erro! Preencha todos os campos."
 
