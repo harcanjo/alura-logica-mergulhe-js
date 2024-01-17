@@ -16,7 +16,3 @@ if (chute == numeroSecreto) {
     console.log('Valor do número secreto:', numeroSecreto);
     alert('O número secreto era ' + numeroSecreto);
 }
-
-
-
-
