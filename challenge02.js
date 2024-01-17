@@ -39,5 +39,7 @@ alert(`Seu saldo atual é R$ ${saldo} reais.`);
 */
 
 // 5.Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
+/*
 let nomeUsuario = prompt("Digite seu nome");
 alert(`Seja bem vindo(a) ${nomeUsuario}!`);
+*/
