@@ -23,6 +23,7 @@ let mensagemDeErro = "Erro! Preencha todos os campos.";
 alert(mensagemDeErro);
 
 // 8. Use um prompt para perguntar o nome do usuário e armazená-lo na variável nome.
+nome = prompt("Qual o seu nome?");
 
 // 9. Peça ao usuário para digitar sua idade usando um prompt e armazene-a na variável idade.
 
